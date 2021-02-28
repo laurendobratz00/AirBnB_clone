@@ -13,7 +13,7 @@
 }
 
 .places > article h2 {
-    font-size: 30;
+    font-size: 30px;
     text-align: center;
 }
 
@@ -72,24 +72,24 @@
     background: url("../images/icon_group.png") no-repeat center;
     margin-left: auto;
     margin-right: auto;
-    height: 50;
-    width: 50;
+    height: 50px;
+    width: 50px;
 }
 
 .icon_bed {
     background: url("../images/icon_bed.png") no-repeat center;
     margin-left: auto;
     margin-right: auto;
-    height: 50;
-    width: 50;
+    height: 50px;
+    width: 50px;
 }
 
 .icon_bath {
     background: url("../images/icon_bath.png") no-repeat center;
     margin-left: auto;
     margin-right: auto;
-    height: 50;
-    width: 50;
+    height: 50px;
+    width: 50px;
 }
 
 .user > p {
